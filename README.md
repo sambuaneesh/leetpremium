@@ -5,11 +5,11 @@ I just got whatever I could find exhaustively. Cheers!
 ## Overview
 
 - **Total Companies**: 682
-- **Total Problems**: 18,137
+- **Total Problems**: 3,196
 - **Difficulty Distribution**:
-  - 🟢 Easy: 4,632 problems
-  - 🟡 Medium: 10,301 problems
-  - 🔴 Hard: 3,204 problems
+  - 🟢 Easy: 780 problems
+  - 🟡 Medium: 1,697 problems
+  - 🔴 Hard: 719 problems
 
 ## Note
 This repository is a facade; for a true experience, visit the website I have attached to the repo! 😉

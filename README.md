@@ -11,6 +11,9 @@ I just got whatever I could find exhaustively. Cheers!
   - 🟡 Medium: 10,301 problems
   - 🔴 Hard: 3,204 problems
 
+## Note
+This repository is a facade; for a true experience, visit the website I have attached to the repo! 😉
+
 ## Companies
 
 Click on any company name to view their specific problem list:
